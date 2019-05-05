@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tajam</title>
+</head>
+<body>
+    <header>
+        <div class="header top">
+        <img src="./image%2520file/logo%202.png" alt="tajam"> <br> 
+        <div>Home</div> <br>    
+        <div>About</div> <br>
+        <div>Expertise</div> <br>
+        <div>Team</div> <br>
+        <div> Works</div> <br>
+        <div>People Say</div> <br>
+        <div>Contacts</div>
+        <div class="banner">
+            <h1>We Are Awesome Creative Agency</h1>
+            <p class="banner title">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus temporibus beatae suscipit iusto libero sequi? Saepe est quibusdam commodi iure molestiae fugit velit magni, corporis rerum quaerat modi vitae alias.</p>    
+            <div>
+            <img src="./image%2520file/logo.png" alt="logo"> <br>
+            <input type="Submit" value="Learn More"> <br>
+            <label>
+                 <input type="radio" name="#" value="1"> <br>
+                </label>
+                <label>
+                <input type="radio" name="#" value="2"> <br>
+                </label>
+                <label>
+                <input type="radio" name="#" value="3"> <br>
+                </label>
+                <label>
+                <input type="radio" name="#" value="3"> <br>
+                </label>
+             </div>
+        </div>
+        </div>
+    </header>
+    <section class="Our Story">
+        <div class="container">
+            <h1 class="boxDiscription">OUR STORY</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quisquam reprehenderit, explicabo sint? Modi facilis a illo, totam obcaecati dolor fugit explicabo quos illum quis eaque maxime, officiis est adipisci?</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quisquam reprehenderit, explicabo sint? Modi facilis a illo, totam obcaecati dolor fugit explicabo quos illum quis eaque maxime, officiis est adipisci?</p>
+              <input type="Submit" value="Learn More"> <br>
+                <img src="./image%2520file/logo.png" alt="Final Project File">
+
+            </div>
+          <section class="video">
+        <div class="fullBlock">
+           <span class="watchHead">button</span>
+           <a href="#">Watch Our Story</a>   
+        </div>
+        <div class="fullBlock videoContainer">     
+        </div>   
+    </section>
+
+    </section>
+    <section class="Expertise">
+      <div class="container">
+       <h1 class="boxDiscription">EXPERISE</h1>
+            <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</P>
+            <div></div>
+            <div></div>
+            </div>
+    </section>
+    <section class="Meet Our Amazing Team">
+        <div class="container">
+            <h1 class="boxDiscription">"MEET OUR AMAZING TEAM"</h1>
+            <box></box>
+            <box></box>
+            <box></box>
+            <box></box>
+            <img src="" alt=""> 
+            <div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div>
+            <h1> </h1>
+                <div></div>
+                <div></div>
+                <div></div>       
+        </div>
+    </section>
+    <section>
+        <div>
+            <hi></hi>
+        </div>  
+        <div>
+
+        </div>        
+    </section>
+    <section>
+        <div>
+            <h1></h1>
+        </div>
+    </section>
+    <section>
+       <h1></h1>
+            <div></div>
+            <div></div>
+    </section>
+    <section>
+           <h1></h1>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+    </section>
+    <section>
+    <footer>
+        <h1></h1>
+            <div></div>
+            <div></div>
+            <div></div>
+    </footer>
+    </section>
+</body>
+</html> 
